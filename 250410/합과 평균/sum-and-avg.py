@@ -1,0 +1,3 @@
+A,B = map(int,input().split())
+print(A+B ,end = ' ')
+print((A+B)/2)
